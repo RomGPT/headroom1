@@ -1,0 +1,13 @@
+# Fork Notes
+
+Quick local notes for this fork.
+
+## Minimal analysis
+
+- This is a compact fork, so start with a full file-tree review and README check.
+- If the project has executable code, identify the main entry point before changing behavior.
+- The safest first contribution is a short project summary or setup checklist.
+
+## Next step
+
+Review the top-level files and document the intended usage.
